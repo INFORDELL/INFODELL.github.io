@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "cover-card"
+  spec.name         = "INFORDELL"
   spec.version       = "0.3"
   spec.authors       = ["epidrome"]
   spec.email         = ["github@epidro.me"]
